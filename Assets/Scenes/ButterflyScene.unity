@@ -644,7 +644,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Animation
       value: 
-      objectReference: {fileID: -6854484799073137982, guid: 1d3c840f154d404488c5cf0a63940ed1,
+      objectReference: {fileID: -5252816984213320552, guid: 1d3c840f154d404488c5cf0a63940ed1,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 7446590082972375451, guid: 1d3c840f154d404488c5cf0a63940ed1,
