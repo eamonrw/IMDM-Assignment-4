@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 1d3c840f154d404488c5cf0a63940ed1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: hover
+    second: {fileID: -6854484799073137982, guid: 1d3c840f154d404488c5cf0a63940ed1,
+      type: 3}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: idle
+    second: {fileID: -5252816984213320552, guid: 1d3c840f154d404488c5cf0a63940ed1,
+      type: 3}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: take_off_and_land
+    second: {fileID: -1387327528716191886, guid: 1d3c840f154d404488c5cf0a63940ed1,
+      type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
